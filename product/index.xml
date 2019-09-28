@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on VKUTNO</title>
-    <link>https://p0pova.github.io/product/</link>
+    <link>http://vkutno.pp.ua/product/</link>
     <description>Recent content in Products on VKUTNO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Sep 2019 23:47:25 +0300</lastBuildDate>
     
-	<atom:link href="https://p0pova.github.io/product/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vkutno.pp.ua/product/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>https://p0pova.github.io/product/first/</link>
+      <link>http://vkutno.pp.ua/product/first/</link>
       <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
       
-      <guid>https://p0pova.github.io/product/first/</guid>
+      <guid>http://vkutno.pp.ua/product/first/</guid>
       <description>описание первого продукта</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://p0pova.github.io/product/second/</link>
+      <link>http://vkutno.pp.ua/product/second/</link>
       <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
       
-      <guid>https://p0pova.github.io/product/second/</guid>
+      <guid>http://vkutno.pp.ua/product/second/</guid>
       <description>описание первого продукта jwhevfjh weufhi we</description>
     </item>
     
