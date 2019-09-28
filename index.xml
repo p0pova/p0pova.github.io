@@ -12,12 +12,39 @@
     
     
     <item>
+      <title>Delivary</title>
+      <link>http://example.org/delivery/</link>
+      <pubDate>Sat, 28 Sep 2019 14:27:31 +0300</pubDate>
+      
+      <guid>http://example.org/delivery/</guid>
+      <description>gjfgrgev</description>
+    </item>
+    
+    <item>
+      <title>Корзина</title>
+      <link>http://example.org/checkout/</link>
+      <pubDate>Fri, 27 Sep 2019 23:53:59 +0300</pubDate>
+      
+      <guid>http://example.org/checkout/</guid>
+      <description>спасибо что зашли на наш сайт</description>
+    </item>
+    
+    <item>
       <title>First</title>
       <link>http://example.org/product/first/</link>
       <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
       
       <guid>http://example.org/product/first/</guid>
       <description>описание первого продукта</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/product/second/</link>
+      <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
+      
+      <guid>http://example.org/product/second/</guid>
+      <description>описание первого продукта jwhevfjh weufhi we</description>
     </item>
     
     <item>
