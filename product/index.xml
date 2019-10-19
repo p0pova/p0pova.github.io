@@ -12,21 +12,48 @@
     
     
     <item>
-      <title>First</title>
-      <link>http://vkutno.pp.ua/product/first/</link>
+      <title>Фруктовые чипсы &#39;Ассорти&#39;</title>
+      <link>http://vkutno.pp.ua/product/five/</link>
       <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
       
-      <guid>http://vkutno.pp.ua/product/first/</guid>
-      <description>описание первого продукта</description>
+      <guid>http://vkutno.pp.ua/product/five/</guid>
+      <description>Состав: яблоко, киви, банан, апельсин</description>
     </item>
     
     <item>
-      <title>Second</title>
+      <title>Фруктовые чипсы &#39;Банан&#39;</title>
+      <link>http://vkutno.pp.ua/product/three/</link>
+      <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
+      
+      <guid>http://vkutno.pp.ua/product/three/</guid>
+      <description>Состав: банан</description>
+    </item>
+    
+    <item>
+      <title>Фруктовые чипсы &#39;Киви&#39;</title>
       <link>http://vkutno.pp.ua/product/second/</link>
       <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
       
       <guid>http://vkutno.pp.ua/product/second/</guid>
-      <description>описание первого продукта jwhevfjh weufhi we</description>
+      <description>Состав: киви</description>
+    </item>
+    
+    <item>
+      <title>Фруктовые чипсы &#39;Яблоко&#39;</title>
+      <link>http://vkutno.pp.ua/product/four/</link>
+      <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
+      
+      <guid>http://vkutno.pp.ua/product/four/</guid>
+      <description>Состав:яблоко</description>
+    </item>
+    
+    <item>
+      <title>Фруктовый чипсы &#39;Апельсин&#39;</title>
+      <link>http://vkutno.pp.ua/product/first/</link>
+      <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
+      
+      <guid>http://vkutno.pp.ua/product/first/</guid>
+      <description>Состав: апельсин</description>
     </item>
     
   </channel>

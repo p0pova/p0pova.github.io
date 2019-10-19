@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Delivary</title>
+      <title>Доставка и оплата</title>
       <link>http://vkutno.pp.ua/delivery/</link>
       <pubDate>Sat, 28 Sep 2019 14:27:31 +0300</pubDate>
       
       <guid>http://vkutno.pp.ua/delivery/</guid>
-      <description>gjfgrgev</description>
+      <description></description>
     </item>
     
     <item>
@@ -30,39 +30,66 @@
     </item>
     
     <item>
-      <title>First</title>
-      <link>http://vkutno.pp.ua/product/first/</link>
+      <title>Фруктовые чипсы &#39;Ассорти&#39;</title>
+      <link>http://vkutno.pp.ua/product/five/</link>
       <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
       
-      <guid>http://vkutno.pp.ua/product/first/</guid>
-      <description>описание первого продукта</description>
+      <guid>http://vkutno.pp.ua/product/five/</guid>
+      <description>Состав: яблоко, киви, банан, апельсин</description>
     </item>
     
     <item>
-      <title>Second</title>
+      <title>Фруктовые чипсы &#39;Банан&#39;</title>
+      <link>http://vkutno.pp.ua/product/three/</link>
+      <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
+      
+      <guid>http://vkutno.pp.ua/product/three/</guid>
+      <description>Состав: банан</description>
+    </item>
+    
+    <item>
+      <title>Фруктовые чипсы &#39;Киви&#39;</title>
       <link>http://vkutno.pp.ua/product/second/</link>
       <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
       
       <guid>http://vkutno.pp.ua/product/second/</guid>
-      <description>описание первого продукта jwhevfjh weufhi we</description>
+      <description>Состав: киви</description>
     </item>
     
     <item>
-      <title>Наши контакты</title>
+      <title>Фруктовые чипсы &#39;Яблоко&#39;</title>
+      <link>http://vkutno.pp.ua/product/four/</link>
+      <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
+      
+      <guid>http://vkutno.pp.ua/product/four/</guid>
+      <description>Состав:яблоко</description>
+    </item>
+    
+    <item>
+      <title>Фруктовый чипсы &#39;Апельсин&#39;</title>
+      <link>http://vkutno.pp.ua/product/first/</link>
+      <pubDate>Fri, 27 Sep 2019 23:47:25 +0300</pubDate>
+      
+      <guid>http://vkutno.pp.ua/product/first/</guid>
+      <description>Состав: апельсин</description>
+    </item>
+    
+    <item>
+      <title>Контакты</title>
       <link>http://vkutno.pp.ua/contact/</link>
       <pubDate>Fri, 27 Sep 2019 23:45:31 +0300</pubDate>
       
       <guid>http://vkutno.pp.ua/contact/</guid>
-      <description>длвытмдлыв длыовд млыов дмжывждможывд ывдлмдыв дылвомды л</description>
+      <description></description>
     </item>
     
     <item>
-      <title>О нас любимых</title>
+      <title>О Vkutno</title>
       <link>http://vkutno.pp.ua/about/</link>
       <pubDate>Fri, 27 Sep 2019 23:38:31 +0300</pubDate>
       
       <guid>http://vkutno.pp.ua/about/</guid>
-      <description>kjdskjsd sldjl ksdjlfkjls dlkjlsdkfjlsdk</description>
+      <description>Современный ритм жизни создает большие нагрузки на организм. У нас частенько не остается времени даже на себя – мы забываем позавтракать, обедаем в фастфуде и переедаем на ночь. Рано или поздно такой образ жизни отразится на здоровье – пора что-то менять! Чипсы занимают лидирующее место в списке самых популярных и самых вредных для здоровья снеков. Привычные магазинные чипсы – такие вкусные и привлекательные, но содержат огромное количество вредных добавок, насыщенных жиров, и при этом в них практически нет витаминов – поэтому их никак нельзя считать полезной пищей.</description>
     </item>
     
   </channel>
